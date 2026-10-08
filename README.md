@@ -1,6 +1,8 @@
-# classificador_projeto
+# Classificador Supervisionado
 
-*Em partidas de alto elo, dez minutos de jogo já contam uma história — este repositório pergunta se um classificador consegue lê-la antes do fim.*
+**Repositório:** `classificador_projeto`
+
+*Em partidas de alto elo, dez minutos de jogo já contam uma história — este trabalho pergunta se um classificador consegue lê-la antes do fim.*
 
 ---
 
